@@ -12,3 +12,7 @@ $ make clean all
 ```
 
 Now you have bin/packer in your packer directory.
+
+## Bugs
+
+Currently only downloads for linux-amd64.
